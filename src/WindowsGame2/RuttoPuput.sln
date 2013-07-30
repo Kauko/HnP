@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuttoPuput", "WindowsGame2\WindowsGame2\RuttoPuput.csproj", "{7636E974-6A52-4D69-AA5A-660A49DA87DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuttoPuputContent", "WindowsGame2\WindowsGame2Content\RuttoPuputContent.contentproj", "{7B06F7FE-EB06-4D0F-9DE0-E8CD38324ECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuttoPuputLevel", "..\RuttoPuputLevel\RuttoPuputLevel\RuttoPuputLevel.csproj", "{E4CB05BD-55A9-4A98-8960-F54E32E04E68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuttoPuputLevelLoader", "..\RuttoPuputLevelLoader\RuttoPuputLevelLoader\RuttoPuputLevelLoader.csproj", "{3B765A97-5179-4B81-A854-3957F00FB36B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7636E974-6A52-4D69-AA5A-660A49DA87DF}.Debug|x86.ActiveCfg = Debug|x86
+		{7636E974-6A52-4D69-AA5A-660A49DA87DF}.Debug|x86.Build.0 = Debug|x86
+		{7636E974-6A52-4D69-AA5A-660A49DA87DF}.Release|x86.ActiveCfg = Release|x86
+		{7636E974-6A52-4D69-AA5A-660A49DA87DF}.Release|x86.Build.0 = Release|x86
+		{7B06F7FE-EB06-4D0F-9DE0-E8CD38324ECB}.Debug|x86.ActiveCfg = Debug|x86
+		{7B06F7FE-EB06-4D0F-9DE0-E8CD38324ECB}.Release|x86.ActiveCfg = Release|x86
+		{E4CB05BD-55A9-4A98-8960-F54E32E04E68}.Debug|x86.ActiveCfg = Debug|x86
+		{E4CB05BD-55A9-4A98-8960-F54E32E04E68}.Debug|x86.Build.0 = Debug|x86
+		{E4CB05BD-55A9-4A98-8960-F54E32E04E68}.Release|x86.ActiveCfg = Release|x86
+		{E4CB05BD-55A9-4A98-8960-F54E32E04E68}.Release|x86.Build.0 = Release|x86
+		{3B765A97-5179-4B81-A854-3957F00FB36B}.Debug|x86.ActiveCfg = Debug|x86
+		{3B765A97-5179-4B81-A854-3957F00FB36B}.Debug|x86.Build.0 = Debug|x86
+		{3B765A97-5179-4B81-A854-3957F00FB36B}.Release|x86.ActiveCfg = Debug|x86
+		{3B765A97-5179-4B81-A854-3957F00FB36B}.Release|x86.Build.0 = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
